@@ -1,4 +1,4 @@
-# waiter-caller
+# Crime Map 
 
 This is the second example project from my book Flask By Example (https://flaskbyexample.com)
 
